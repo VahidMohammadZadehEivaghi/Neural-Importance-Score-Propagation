@@ -1,0 +1,5 @@
+.venv/ 
+__pycache__
+artifacts/
+pruned_artifacts/
+data/
